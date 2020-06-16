@@ -1,4 +1,4 @@
-# AnnaBella:computer:
+# AnnaBella :camera:
 
 ![Anna Bella Logo](/images/capa.png)
 
